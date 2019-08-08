@@ -1,0 +1,12 @@
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.container h1 {
+  color: white;
+}
+
+.container p {
+  color: #979899;
+}

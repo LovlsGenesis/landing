@@ -1,0 +1,33 @@
+.footer {
+  background-color:#2C2B2B;
+  color: grey;
+  font-size: 10px;
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 75px
+}
+
+
+.social {
+  font-size: 10px;
+}
+
+.list-inline {
+  list-style:none;
+  padding-left: 0px;
+  padding-top: 50px;
+  /*margin-left: 300px*/
+
+}
+
+.list-inline li {
+  color: #54DD88;
+  display: inline;
+  padding: 10px;
+}
+
+.list-inline i {
+  color: #54DD88;
+  font-size: 35px
+}
+
